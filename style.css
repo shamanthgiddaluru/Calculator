@@ -19,7 +19,7 @@
 .calculator {
     border: 1px solid;
     padding: 1rem;
-    border-radius: 15px;
+    border-radius: 16px;
     background: transparent;
     box-shadow: 0px 3px 15px rgba(113, 115, 1198, 0.9);
 }
@@ -31,7 +31,7 @@ input {
     margin: 10px;
     background: transparent;
     font-size: 40px; 
-    box-shadow: 0px 3px 15px rgba(84, 84, 84,0.1);
+    box-shadow: 0px 4px 15px rgba(84, 84, 84,0.1);
     cursor: pointer;
     outline: none;
     color: #fff;
@@ -67,5 +67,5 @@ button:hover {
     
 }
 .operator:hover {
-    color: red;
+    color: rgb(233, 10, 10);
 }
