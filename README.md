@@ -25,7 +25,7 @@ Perform basic arithmetic operations (e.g., 5 * 3 = 15).
 See the result of your calculation instantly after pressing =.
 Press the AC button to clear all input.
 Screenshot 2024-10-12 194126.png
-Screenshot 2024-10-12 194138.pn
+Screenshot 2024-10-12 194138.png
 
 ## Contributing
 
